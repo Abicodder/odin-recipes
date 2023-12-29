@@ -1,0 +1,13 @@
+div{
+    font-size: 32px;
+    color: green;
+}
+body{
+    background-color: aquamarine;
+}
+items{
+    background-color: aliceblue;
+    margin: 12px;
+    padding: 12px;
+    
+}
